@@ -1,5 +1,6 @@
 MY CAPSTONE PROJECT ON SQL
 15 BUSINESS QUESTIONS 
+
  What are the full names, job titles, and current department names for all employees in the company?
 Which products have a total order quantity greater than the average total quantity ordered across all products?
 Departments with more than 2 employees earning a pay rate > $40
